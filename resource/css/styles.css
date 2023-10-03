@@ -1,0 +1,45 @@
+*{
+  padding:0;
+  margin:0;
+  scroll-behavior: smooth;  
+  text-rendering: optimizeSpeed;
+}
+.logo{
+    height: 65px;
+    filter: invert(95%);
+}
+.header{
+min-height: 120vh;
+background-image: url('../img/bg.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-custom{
+    background-color: #1f2b38;
+}
+.card1{
+    background-color: #1f2b38b5;
+}
+.about_us{
+    min-height: 100vh;
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+
+}
+
+.footer{
+
+    min-height: 5vh;
+    background-color: #1f2b38;
+    
+}
+.map{
+    height: 50vh;
+}
+
